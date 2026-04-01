@@ -29,7 +29,7 @@ To become a **Full Stack Developer (PERN Stack)** and secure an internship in th
 
 ## 🚀 What’s Next
 - Build full-stack projects using PostgreSQL, Express, React, Node  
-- Solve Data Structures & Algorithms problems regularly  
+- Solve DS & Algorithms problems regularly  
 - Create production-level applications  
 
 ---
