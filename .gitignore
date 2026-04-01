@@ -1,0 +1,6 @@
+node_modules/
+__MACOSX/
+*solution*
+*.png
+*.log
+.env
